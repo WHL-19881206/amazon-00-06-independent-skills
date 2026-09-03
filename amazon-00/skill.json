@@ -1,0 +1,7 @@
+{
+  "skill_id": "00",
+  "name": "Amazon 00 Governance & Orchestration",
+  "owner": "Governance, Product Truth, Policy, Orchestration, Final QA",
+  "entrypoint": "SKILL.md",
+  "standalone": true
+}
